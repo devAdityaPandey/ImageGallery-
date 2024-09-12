@@ -18,7 +18,7 @@ The project is live at: <a href="https://github.com/devAdityaPandey/ImageGallery
 <h3>Usage</h3>
 Clone this repository:
 <br>
-<b>git clone https://github.com/PiyushPSS/ImageGallery-FrontEnd.git</b>
+<b>git clone https://github.com/devAdityaPandey/ImageGallery-.git</b>
 <br>
 <h3>Contributing</h3>
 Feel free to fork this repository and submit pull requests. Contributions are welcome!
